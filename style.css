@@ -99,7 +99,7 @@ input:hover + .menu > .burger--button > .burger--line:nth-child(2) {
 /* First page */
 .first--page {
   min-height: 100vh;
-  background-image: url("../assets/photos/astronaut.jpg");
+  background-image: url("astronaut.jpg");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -175,7 +175,7 @@ input:hover + .menu > .burger--button > .burger--line:nth-child(2) {
 }
 
 .second--page {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../assets/photos/background_space.jpg");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("background_space.jpg");
   background-size: cover;
   background-position: center;
   color: white;
